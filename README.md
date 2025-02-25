@@ -61,6 +61,7 @@ Predict the next time step's traffic speed for multiple sensors using ML models 
     model.load_model("xgb_traffic_model.json")
     ```
 
+
 ## 📷 Screenshots
 
 ### **Residual plot:**
