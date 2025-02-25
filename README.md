@@ -36,7 +36,7 @@ Predict the next time step's traffic speed for multiple sensors using ML models 
 * **Libraries Used:**
     * `pandas`, `numpy` (Data Processing)
     * `xgboost`, `sklearn` (Machine Learning)
-    * `matplotlib`, `seaborn` (visualization)
+    * `matplotlib`, `seaborn` (Visualization)
 
 ## 🚀 How to Run
 
@@ -63,10 +63,10 @@ Predict the next time step's traffic speed for multiple sensors using ML models 
 
 ## 📷 Screenshots
 
-### **Residual plot**
+### **Residual plot:**
 ![Residual plot](images/i1.png) 
 
-### **Comparison for Sensor 0**
+### **Comparison for Sensor 0:**
 ![Comparison for Sensor 0](images/i2.png) 
 
 ## 🔥 Key Features
